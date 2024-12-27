@@ -1,0 +1,66 @@
+
+body {
+    background-color: #121212; 
+    color: #e0e0e0; 
+    font-family: Arial, sans-serif;
+  }
+  
+  .contact-us-container {
+    margin-top: 50px;
+  }
+  
+
+  header h1 {
+    color: #ffa500; 
+  }
+  
+
+  .form-control {
+    background-color: #a0a0a0; 
+    color: #fff;
+    border-radius: 5px;
+    border: 1px solid #555;
+    margin-bottom: 15px;
+  }
+  
+  /* Button */
+  .btn-warning {
+    background-color: #ff9900;
+    color: #000;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .btn-warning:hover {
+    background-color: #ff7700; 
+  }
+  
+  .bg-light {
+    background-color: #f4f4f4;
+  }
+  
+  footer {
+    background-color: #222; 
+    color: #fff;
+  }
+  
+  footer a {
+    color: #ffa500;
+  }
+  
+  footer a:hover {
+    color: #fff;
+  }
+  
+  footer .d-flex a {
+    margin-right: 10px;
+    font-size: 18px;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+  }
+  

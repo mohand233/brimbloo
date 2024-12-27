@@ -1,0 +1,65 @@
+.card {
+  background-color: #222222; 
+  color: #D1D1D1; 
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.card-header {
+  background-color: #a4caa4; 
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.card h5 {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+.card p {
+  color: #A7C6ED; 
+  font-size: 1.1em;
+}
+
+.card a {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  color: white;
+  background-color: #91beefb8; 
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.card a:hover {
+  background-color: #0056b3; 
+  transform: scale(1.05); 
+}
+
+.offers {
+  background-color: #000000; 
+  color: #D1D1D1; 
+  padding: 50px 0;
+}
+
+.offers h3 {
+  color: #a4caa4; 
+  margin-bottom: 30px;
+}
+.h5{color: #ff0000;}

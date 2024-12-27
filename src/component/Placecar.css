@@ -1,0 +1,55 @@
+
+
+body {
+    background-color: #000;
+    color: #D1D1D1; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.offers {
+    background-color: #000; 
+    padding: 50px 0;
+}
+
+.offers h3 {
+    color: #ff9900; 
+    margin-bottom: 30px;
+}
+
+
+.card {
+    background-color: #222222; 
+    color: #D1D1D1; 
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.card-header {
+    background-color: #a4caa4; 
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.card h5 {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: aliceblue;
+}
+
+.card p {
+    color: #A7C6ED; 
+    font-size: 1.1em;
+}
